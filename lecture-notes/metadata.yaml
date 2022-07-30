@@ -1,0 +1,19 @@
+---
+# document
+title: "Curso completo de Python 3 de la A a la Z"
+subtitle: "Por Juan Gabriel Gomila"
+author: Notad de Roberto Negro
+date: 15 de abril de 2021
+# configuration
+lang: es-ES
+numbersections: true
+toc: true
+toccolor: gray
+# colorlinks
+colorlinks: true
+urlcolor: blue
+#linkcolor: blue
+#citecolor: green
+#anchorcolor: green
+---
+
